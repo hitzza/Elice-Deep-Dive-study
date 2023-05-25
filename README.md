@@ -1,3 +1,3 @@
 # Elice-Deep-Dive-study
 
-test
+git test
